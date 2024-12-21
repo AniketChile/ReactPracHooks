@@ -103,7 +103,7 @@ function UseStateUsage(props) {
       </div>
       <div className="bg-red-900 rounded-xl p-2">
         <button className="m-3" onClick={rangerName}>
-          Aniket's Fav Ranger
+          Aniket's Favv Ranger
         </button>
         <button className="m-3" onClick={charName}>
           Aniket's Ranger Name
